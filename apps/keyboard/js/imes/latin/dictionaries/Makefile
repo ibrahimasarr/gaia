@@ -20,6 +20,7 @@ WHITELIST = \
  en_us.dict \
  es.dict \
  eu.dict \
+ ff.dict \
  fi.dict \
  fr.dict \
  ga.dict \
